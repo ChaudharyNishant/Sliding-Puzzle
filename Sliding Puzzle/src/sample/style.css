@@ -1,0 +1,37 @@
+#root
+{
+	-fx-background-color: lightskyblue;
+}
+
+#yellow
+{
+	-fx-background-color: yellow;
+    -fx-border-color: red;
+}
+
+#red
+{
+	-fx-background-color: red;
+    -fx-border-color: yellow;
+    -fx-font-weight: bold;
+}
+
+#label
+{
+	-fx-font-size: 13;
+	-fx-font-weight: bold;
+}
+
+#khaki
+{
+	-fx-background-color: khaki;
+	-fx-border-color: lightskyblue;
+	-fx-font-size: 26;
+}
+
+#coral
+{
+	-fx-background-color: coral;
+	-fx-border-color: lightskyblue;
+	-fx-font-size: 26;
+}
