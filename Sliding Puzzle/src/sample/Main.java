@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 import java.util.Random;
@@ -397,6 +400,8 @@ public class Main extends Application
 	public static void main(String args[])
 	{
 		launch(args);
-	}
-	
+	}	
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
