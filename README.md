@@ -5,6 +5,6 @@ There are 8 numbered boxes from 1 to 8 kept in some order in a 3x3 matrix with 1
 
 You can restart the level if you think you have made it more difficult. You can also restart or quit the game at any time.
 
-[Check out the gameplay here](https://drive.google.com/open?id=1ZYmE6ltH_ArRGf0LYc4KUGgbXEOovk75)
+[Check out the gameplay here](https://youtu.be/OpSPnzKAydw)
 
 I have played this game upto level 43. You think you can play further?
